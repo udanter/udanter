@@ -1,5 +1,5 @@
 
-## Olá ! sou o Uiliam Danter, Iniciante em Programação e Apaixonado por Tecnologia!
+## Olá ! sou o Uiliam , Iniciante em Programação e Apaixonado por Tecnologia!
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=udanter&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
